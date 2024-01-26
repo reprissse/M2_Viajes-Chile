@@ -16,3 +16,8 @@ body{
 .navbar img{
     height: 35px;
 }
+
+/* CARRUSEL*/   
+.carousel-inner {
+    position: fixed top;
+}
