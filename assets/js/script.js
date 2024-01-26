@@ -18,7 +18,7 @@ $(document).ready(function(){
     const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
     const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
  
-    
+
     /* 3 componente javaScript */  
     /* evento click alerta enviar correo */
     $("#enviar").click(function(){
