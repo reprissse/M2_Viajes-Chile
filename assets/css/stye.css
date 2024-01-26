@@ -31,3 +31,13 @@ body{
 #viajes .card-titulo .card-texto {
     font-size: 12px;
 }
+
+/* formulario contacto*/
+#contacto{
+    padding-top: 80px;
+}
+
+form {
+    padding-left: 50px;
+    padding-right: 50px;
+}
